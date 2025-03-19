@@ -1,4 +1,5 @@
 🧮 Simple Calculator
+
 A basic calculator built using HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 🔗 Live Demo: Click Here 
